@@ -1,0 +1,27 @@
+<html>
+<body>
+    <div style= "text-align:center;">
+        <a href="anasayfa.html">Anasayfa</a>
+        <a href="iletisim.html">İletişim</a>
+        <a href="hakkimizda.html">Hakkımızda</a>
+    </div>
+    </br>
+    <div style="text-align: center; color: lightcoral;">
+        <h2>İletişim Bilgileri</h2>
+        </br>
+        <label>Konu:</label>
+        <input type="text" value="" />
+        </br>
+        <label>E-posta adresi:</label>
+        <input type="text" value="" />
+        </br>
+        <label>Tel:</label> 
+        <input type="number" value="" />
+        </br>
+        <label>Açıklama:</label>
+        <input type="text" value="" />
+        </br>
+        <button>Gönder</button>
+    </div>
+</body>
+</html>
