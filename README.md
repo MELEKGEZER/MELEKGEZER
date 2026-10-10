@@ -17,3 +17,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=melekgezer&show_icons=true&locale=en&layout=compact" alt="melekgezer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melekgezer&" alt="melekgezer" /></p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MELEKGEZER/MELEKGEZER/output/snake.svg" alt="Snake animation" />
+</div>
